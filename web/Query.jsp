@@ -10,24 +10,62 @@
 <head>
     <link href="CSS/querystyle.css" rel="stylesheet" type="text/css"/>
     <title>Title</title>
+    <script>
+        function openCity(Name,elmnt,color) {
+            var i, tabcontent, tablinks;
+            tabcontent = document.getElementsByClassName("tabcontent");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            tablinks = document.getElementsByClassName("tablink");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].style.backgroundColor = "";
+            }
+            document.getElementById(Name).style.display = "block";
+            elmnt.style.backgroundColor = color;
+
+        }
+        // 触发 id="defaultOpen" click 事件
+        document.getElementById("good").click();
+    </script>
 </head>
 <body>
-
-<div class="card">
-    <img src="PIC/3.jpg" alt="Avatar" style="width:100%">
-    <div class="container">
-        <div class="tooltip">二叉树
-            <span class="tooltiptext">
+<button class="tablink" onclick="openCity('good', this, 'green')" id="defaultOpen">商品</button>
+<button class="tablink" onclick="openCity('store', this, 'red')">店铺</button>
+<br>
+<div id="good" class="tabcontent" style=" background-color:green;">
+    <div class="card">
+        <img src="PIC/3.jpg" alt="Avatar" style="width:100%">
+        <div class="container">
+            <div class="tooltip">二叉树
+                <span class="tooltiptext">
             <td>文件名：</td>  </td><br>
             <td>价格：</td> <td>10</td><br>
             <td>所有人：</td> <td>djh</td><br>
             <td>分类：</td> <td>exe </td><br>
             <td>简介：</td> <td>程序猿都喜欢二叉树 </td><br>
         </span>
-        </div><br>
-        <td>价格：</td> <td>10</td><br>
-        <td>所有人：</td> <td>djh</td><br>
+            </div><br>
+            <td>价格：</td> <td>10</td><br>
+            <td>所有人：</td> <td>djh</td><br>
+        </div>
     </div>
 </div>
+
+<div id="store" class="tabcontent" style=" background-color:red;">
+
+    <div class="card">
+        <img src="PIC/1.jpg"  style="width:100%">
+        <div class="container">
+            <div class="tooltip">cxx店铺
+                <span class="tooltiptext">
+
+                     <td>简介：</td> <td>cxx喜欢二叉树 </td><br>
+                 </span>
+            </div><br>
+        </div>
+    </div>
+</div>
+
 </body>
 </html>

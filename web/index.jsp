@@ -44,6 +44,10 @@
 
 
   <div class="column leftcolumn">
+    <input type="text" id="ctext" name="search" placeholder="搜索..">
+    <a id="ll" STYLE=" background-color: orange; border: none;color: white;padding: 15px 32px;text-align: center;
+    text-decoration: none;display: inline-block;font-size: 13px;margin: 4px 2px;" href="void(0);" target="ifr" onclick="Condition()">查询</a>
+    <br>
     <div class="vertical-menu">
       <a href="#" class="active">Category</a>
       <a target="ifr" onclick="CPP.jsp">C++</a>
@@ -53,7 +57,7 @@
 
 
   <div class="column middlecolumn">
-    <iframe  name="ifr" src="Query.jsp" onload="this.height=ifr.document.body.scrollHeight;this.width='100%'" frameborder="0" scrolling="no"></iframe>
+    <iframe  name="ifr" src="Query.jsp" onload="this.height='100%';this.width='100%'" frameborder="0" scrolling="no"></iframe>
   </div>
 
 

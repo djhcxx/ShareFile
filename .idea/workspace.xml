@@ -7,15 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22fc3b5c-dfa0-4e8c-ae03-62a261f972fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/CSS/indexstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/querystyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/PIC/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/Query.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/ShareFileDB.mc9yUA/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/ShareFileDB.mc9yUA/schema/dbo.sYMBAA.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/master.YiqNvw/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/PIC/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/PIC/2.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/indexstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/indexstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/querystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/querystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/CSS/indexstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/indexstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/CSS/querystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/querystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Query.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,19 +84,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+            <state relative-caret-position="-869">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="n#style#0;n#a#2;n#div#1;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#3;n#div#1;n#body#0;n#!!top" expanded="true" />
@@ -105,13 +97,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/Query.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
+            <state relative-caret-position="208">
+              <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
               <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -120,39 +115,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="133">
+              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/CSS/indexstyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="87">
-              <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+            <state relative-caret-position="-14">
+              <caret line="83" column="28" lean-forward="true" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/ShareFileDB/schema/dbo/table/Document">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="804bebd4-d4a3-4cf1-80e0-fdf9e9c0549c">
-              <filtering>
-                <filter text="" />
-              </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/ForTest/test1.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/web/PIC/3.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -176,10 +166,10 @@
         <option value="$PROJECT_DIR$/web/CSS/querystyle.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console.sql" />
         <option value="$PROJECT_DIR$/web/FileQuery/Query.jsp" />
-        <option value="$PROJECT_DIR$/web/Query.jsp" />
-        <option value="$PROJECT_DIR$/web/CSS/querystyle.css" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/CSS/indexstyle.css" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/CSS/querystyle.css" />
+        <option value="$PROJECT_DIR$/web/Query.jsp" />
       </list>
     </option>
   </component>
@@ -196,8 +186,8 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
   </component>
@@ -229,6 +219,18 @@
               <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="ForTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="PIC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -245,7 +247,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/PIC" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -255,6 +257,9 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ShareFile\web\PIC" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ShareFile\web\PIC" />
       <recent name="D:\ShareFile\web" />
@@ -357,7 +362,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1562825731645</updated>
-      <workItem from="1562825735767" duration="14439000" />
+      <workItem from="1562825735767" duration="22092000" />
     </task>
     <task id="LOCAL-00001" summary="This is first version">
       <created>1562826345921</created>
@@ -387,14 +392,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562827009807</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="This is first version">
+      <created>1562845915067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1562845915068</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14439000" />
+    <option name="totallyTimeSpent" value="22092000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -403,7 +415,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.515906" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3264177" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Application Servers" weight="0.329429" />
       <window_info anchor="bottom" id="Database Console" weight="0.32991204" />
@@ -422,10 +434,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.3297587" />
+      <window_info anchor="right" id="Maven" weight="0.5449516" />
       <window_info anchor="right" id="Palette" />
       <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" weight="0.02010724" />
+      <window_info anchor="right" id="Database" weight="0.17292225" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -457,6 +469,9 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/web/PIC/2.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/ShareFileDB/schema/dbo/table/Document">
       <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
         <state projectRestartId="804bebd4-d4a3-4cf1-80e0-fdf9e9c0549c">
@@ -469,31 +484,39 @@
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/PIC/3.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/indexstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="83" column="28" lean-forward="true" selection-start-line="83" selection-start-column="28" selection-end-line="83" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="10" selection-start-line="29" selection-start-column="10" selection-end-line="29" selection-end-column="10" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="133">
+          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="64" column="26" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+        <state relative-caret-position="-869">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="n#style#0;n#a#2;n#div#1;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#3;n#div#1;n#body#0;n#!!top" expanded="true" />
@@ -502,10 +525,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/indexstyle.css">
+    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="80" column="20" selection-start-line="80" selection-start-column="20" selection-end-line="80" selection-end-column="20" />
+        <state relative-caret-position="208">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
