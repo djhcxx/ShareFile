@@ -2,6 +2,8 @@ function autocomplete (arr) {
     /*函数主要有两个参数：文本框元素和自动补齐的完整数据*/
     var currentFocus;
     var inp=document.getElementById("myInput");
+    console.log(arr[2]);
+    console.log(inp);
     /* 监听 - 在写入时触发 */
     inp.addEventListener("input", function(e) {
         var a, b, i, val = this.value;
