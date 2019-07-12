@@ -2,7 +2,7 @@ function change(obj)
 {
     var x=document.getElementById("friend");
 
-
+console.log(x.value);
 
     if(x.style.display.toString()=="")
     {

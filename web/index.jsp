@@ -7,8 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
   <head>
-      <script type="text/javascript" src="JS/ForBoxQuery.js"></script>
-      <script type="text/javascript" src="JS/ForFriend.js"></script>
+
     <link href="CSS/indexstyle.css" rel="stylesheet" type="text/css"/>
     <title>$Title$</title>
   </head>
@@ -35,16 +34,8 @@
           </div>
       </form>
 
-      <a id="ll" STYLE=" background-color: orange; border: none;color: white;padding: 15px 32px;text-align: center;
-    text-decoration: none;display: inline-block;font-size: 13px;margin: 4px 2px;" href="void(0);" target="ifr" onclick="Condition()">查询</a>
-    <br>
-    <div class="vertical-menu">
-      <a href="#" class="active">Category</a>
-      <a target="ifr" onclick="CPP.jsp">C++</a>
-      <a target="ifr" onclick="java.jsp">JAVA</a>
-    </div>
-  </div>
 
+</div>
 
   <div class="column middlecolumn">
     <iframe  name="ifr" src="Query.jsp" onload="this.height='100%';this.width='100%'" frameborder="0" scrolling="no"></iframe>
@@ -69,4 +60,6 @@
 
 
   </body>
+<script type="text/javascript" src="JS/ForBoxQuery.js"></script>
+<script type="text/javascript" src="JS/ForFriend.js"></script>
 </html>
