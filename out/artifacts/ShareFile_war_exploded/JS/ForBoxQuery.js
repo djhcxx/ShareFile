@@ -2,6 +2,8 @@ function autocomplete (arr) {
     /*函数主要有两个参数：文本框元素和自动补齐的完整数据*/
     var currentFocus;
     var inp=document.getElementById("myInput");
+    console.log(arr[2]);
+    console.log(inp);
     /* 监听 - 在写入时触发 */
     inp.addEventListener("input", function(e) {
         var a, b, i, val = this.value;
@@ -21,6 +23,7 @@ function autocomplete (arr) {
             if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
                 /*为匹配元素创建 DIV*/
                 b = document.createElement("DIV");
+                console.log("b:"+b.value)
                 /*使匹配字母变粗体*/
                 b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
                 b.innerHTML += arr[i].substr(val.length);
@@ -42,19 +45,19 @@ function autocomplete (arr) {
     inp.addEventListener("keydown", function(e) {
         var x = document.getElementById(this.id + "autocomplete-list");
         if (x) x = x.getElementsByTagName("div");
-        if (e.keyCode == 40) {
+        if (e.keyCode === 40) {
             /*If the arrow DOWN key is pressed,
             increase the currentFocus variable:*/
             currentFocus++;
             /*and and make the current item more visible:*/
             addActive(x);
-        } else if (e.keyCode == 38) { //up
+        } else if (e.keyCode === 38) { //up
             /*If the arrow UP key is pressed,
             decrease the currentFocus variable:*/
             currentFocus--;
             /*and and make the current item more visible:*/
             addActive(x);
-        } else if (e.keyCode == 13) {
+        } else if (e.keyCode === 13) {
             /*If the ENTER key is pressed, prevent the form from being submitted,*/
             e.preventDefault();
             if (currentFocus > -1) {
