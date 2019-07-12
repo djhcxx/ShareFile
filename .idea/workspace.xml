@@ -7,18 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22fc3b5c-dfa0-4e8c-ae03-62a261f972fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/CSS/FirstPage/footerstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/FirstPage/headerstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/CSS/inputstyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/indexstyle.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForBoxQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForBoxQuery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/CSS/indexstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/CSS/querystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/querystyle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/JS/ForBoxQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/JS/ForBoxQuery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Query.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -87,59 +80,34 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="204">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
               <folding>
-                <element signature="n#style#0;n#a#2;n#div#1;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#3;n#div#1;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#STYLE#0;n#a#0;n#div#0;n#form#0;n#body#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#5;n#body#0;n#!!top" expanded="true" />
+                <element signature="n#div#1;n#body#0;n#!!top" />
+                <element signature="n#form#0;n#body#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#!!top" />
+                <element signature="n#div#3;n#body#0;n#!!top" />
+                <element signature="n#div#4;n#body#0;n#!!top" />
+                <element signature="n#div#5;n#body#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" selection-start-line="1" selection-end-line="2" />
+            <state relative-caret-position="152">
+              <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1077">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="779">
-              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            <state relative-caret-position="425">
+              <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -149,6 +117,33 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -165,17 +160,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="501">
               <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css">
+        <entry file="file://$PROJECT_DIR$/web/Query.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="71" selection-start-line="71" selection-end-line="71" />
+            <state relative-caret-position="102">
+              <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -202,11 +197,8 @@
         <option value="$PROJECT_DIR$/web/CSS/querystyle.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console.sql" />
         <option value="$PROJECT_DIR$/web/FileQuery/Query.jsp" />
-        <option value="$PROJECT_DIR$/web/CSS/querystyle.css" />
         <option value="$PROJECT_DIR$/web/JS/queryJS.js" />
         <option value="$PROJECT_DIR$/web/JS/ForFriend.js" />
-        <option value="$PROJECT_DIR$/web/Query.jsp" />
-        <option value="$PROJECT_DIR$/web/JS/ForBoxQuery.js" />
         <option value="$PROJECT_DIR$/web/CSS/Input.css" />
         <option value="$PROJECT_DIR$/web/CSS/columnstyle.css" />
         <option value="$PROJECT_DIR$/web/CSS/headerstyle.css" />
@@ -215,9 +207,12 @@
         <option value="$PROJECT_DIR$/web/CSS/indexstyle.css" />
         <option value="$PROJECT_DIR$/web/CSS/middlestyle.css" />
         <option value="$PROJECT_DIR$/web/CSS/inputstyle.css" />
-        <option value="$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css" />
         <option value="$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css" />
+        <option value="$PROJECT_DIR$/web/JS/ForBoxQuery.js" />
+        <option value="$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/Query.jsp" />
+        <option value="$PROJECT_DIR$/web/CSS/querystyle.css" />
       </list>
     </option>
   </component>
@@ -235,9 +230,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="x" value="-9" />
+    <option name="width" value="978" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -245,7 +240,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -288,6 +282,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -415,7 +410,8 @@
       <updated>1562825731645</updated>
       <workItem from="1562825735767" duration="22092000" />
       <workItem from="1562893314579" duration="11845000" />
-      <workItem from="1562912338747" duration="9116000" />
+      <workItem from="1562912338747" duration="9256000" />
+      <workItem from="1562922028071" duration="673000" />
     </task>
     <task id="LOCAL-00001" summary="This is first version">
       <created>1562826345921</created>
@@ -494,17 +490,24 @@
       <option name="project" value="LOCAL" />
       <updated>1562913565476</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="This is first version">
+      <created>1562921758833</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562921758833</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43053000" />
+    <option name="totallyTimeSpent" value="43866000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16689008" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1689008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -514,7 +517,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35630497" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3548387" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -586,13 +589,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="61" column="43" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/footerstyle.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -602,8 +598,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
         </state>
       </provider>
     </entry>
@@ -611,33 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="n#style#0;n#a#2;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#3;n#div#1;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#STYLE#0;n#a#0;n#div#0;n#form#0;n#body#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#5;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1077">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="24" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/inputstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -650,29 +626,58 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="779">
-          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        <state relative-caret-position="266">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css">
+    <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
+        <state relative-caret-position="152">
+          <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/inputstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="2" />
+        <state relative-caret-position="204">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#!!top" />
+            <element signature="n#form#0;n#body#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#!!top" />
+            <element signature="n#div#3;n#body#0;n#!!top" />
+            <element signature="n#div#4;n#body#0;n#!!top" />
+            <element signature="n#div#5;n#body#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="15" column="70" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
         </state>
       </provider>
     </entry>

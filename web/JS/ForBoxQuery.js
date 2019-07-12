@@ -3,7 +3,7 @@ function autocomplete (arr) {
     var currentFocus;
     var inp=document.getElementById("myInput");
     /* 监听 - 在写入时触发 */
-    inp.addEventListener("inputstyle.css", function(e) {
+    inp.addEventListener("input", function(e) {
         var a, b, i, val = this.value;
         /*关闭已经打开的自动完成值列表*/
         closeAllLists();
@@ -21,6 +21,7 @@ function autocomplete (arr) {
             if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
                 /*为匹配元素创建 DIV*/
                 b = document.createElement("DIV");
+                console.log(b);
                 /*使匹配字母变粗体*/
                 b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
                 b.innerHTML += arr[i].substr(val.length);

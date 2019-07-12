@@ -1,6 +1,3 @@
-
-
-
 .autocomplete {
     /*the container must be positioned relative:*/
     position: relative;
@@ -15,13 +12,12 @@
     z-index: 1;
     /*position the autocomplete items to be the same width as the container:*/
     left: 35%;
-    top: 35%;
+    top: 20%;
     right: 0;
     width:400px;
 
 }
 .autocomplete-items div {
-
     padding: 10px;
     cursor: pointer;
     background-color: #fff;
