@@ -30,6 +30,8 @@
     </script>
 </head>
 <body>
+<div style="width: 100%;background-color:#F8F8F8;height: 5px "> </div>
+<button class="Normaltablink" >1 </button>
 <button class="tablink" onclick="openWhich('good', this, 'white')" id="defaultOpen">商品</button>
 <button class="tablink" onclick="openWhich('store', this, 'white')">店铺</button>
 <button class="Normaltablink" > 1</button>

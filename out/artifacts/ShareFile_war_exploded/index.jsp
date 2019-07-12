@@ -7,6 +7,7 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
   <head>
+      <script type="text/javascript" src="JS/ForBoxQuery.js"></script>
     <link href="CSS/indexstyle.css" rel="stylesheet" type="text/css"/>
     <title>$Title$</title>
   </head>
@@ -44,9 +45,16 @@
 
 
   <div class="column leftcolumn">
-    <input type="text" id="ctext" name="search" placeholder="搜索..">
-    <a id="ll" STYLE=" background-color: orange; border: none;color: white;padding: 15px 32px;text-align: center;
+
+      <form autocomplete="off" action="/action_page.php">
+          <div class="autocomplete" style="width:300px;">
+              <input type="text" id="myInput" name="search" placeholder="搜索..">
+              <a id="ll" STYLE=" background-color: orange; border: none;color: white;padding: 15px 32px;text-align: center;
     text-decoration: none;display: inline-block;font-size: 13px;margin: 4px 2px;" href="void(0);" target="ifr" onclick="Condition()">查询</a>
+          </div>
+      </form>
+
+
     <br>
     <div class="vertical-menu">
       <a href="#" class="active">Category</a>
