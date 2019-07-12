@@ -59,14 +59,24 @@ body {font-family: "Lato", sans-serif;}
 
 .tablink {
     background-color: #555;
-    color: white;
+    color: black;
     float: left;
     border: none;
     outline: none;
     cursor: pointer;
     padding: 14px 16px;
     font-size: 17px;
-    width: 50%;
+    width: 25%;
+}
+.Normaltablink {
+    background-color: #F8F8F8;
+    color: #F8F8F8;
+    float: left;
+    border: none;
+    outline: none;
+    padding: 14px 16px;
+    font-size: 17px;
+    width: 25%;
 }
 
 .tablink:hover {
