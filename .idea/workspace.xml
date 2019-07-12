@@ -7,12 +7,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="22fc3b5c-dfa0-4e8c-ae03-62a261f972fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/JS/queryJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForFriend.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/JS/ForFriend.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/querystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/querystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForBoxQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForBoxQuery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/CSS/indexstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/indexstyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/CSS/querystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/querystyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/JS/ForBoxQuery.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/JS/ForBoxQuery.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Query.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
@@ -82,36 +83,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="95">
+              <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/web/JS/queryJS.js">
+        <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="100" column="39" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Query.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-342">
-              <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="61" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="760">
+              <caret line="103" column="12" selection-start-line="103" selection-end-line="103" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -126,17 +108,40 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/indexstyle.css">
+        <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="942">
-              <caret line="164" selection-start-line="164" selection-end-line="164" />
+            <state relative-caret-position="304">
+              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/PIC/3.jpg">
-          <provider selected="true" editor-type-id="images" />
+        <entry file="file://$PROJECT_DIR$/web/CSS/indexstyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="713">
+              <caret line="156" column="30" lean-forward="true" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
+              <folding>
+                <element signature="e#2403#2740#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Query.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="627">
+              <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -161,11 +166,13 @@
         <option value="$PROJECT_DIR$/web/CSS/querystyle.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console.sql" />
         <option value="$PROJECT_DIR$/web/FileQuery/Query.jsp" />
-        <option value="$PROJECT_DIR$/web/Query.jsp" />
         <option value="$PROJECT_DIR$/web/CSS/querystyle.css" />
         <option value="$PROJECT_DIR$/web/CSS/indexstyle.css" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
         <option value="$PROJECT_DIR$/web/JS/queryJS.js" />
+        <option value="$PROJECT_DIR$/web/Query.jsp" />
+        <option value="$PROJECT_DIR$/web/JS/ForFriend.js" />
+        <option value="$PROJECT_DIR$/web/JS/ForBoxQuery.js" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
       </list>
     </option>
   </component>
@@ -201,41 +208,6 @@
             <path>
               <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="ForTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="PIC" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
-              <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -365,7 +337,7 @@
       <option name="presentableId" value="Default" />
       <updated>1562825731645</updated>
       <workItem from="1562825735767" duration="22092000" />
-      <workItem from="1562893314579" duration="4894000" />
+      <workItem from="1562893314579" duration="10161000" />
     </task>
     <task id="LOCAL-00001" summary="This is first version">
       <created>1562826345921</created>
@@ -409,17 +381,23 @@
       <option name="project" value="LOCAL" />
       <updated>1562897268646</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="This is first version">
+      <created>1562899868736</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1562899868736</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26986000" />
+    <option name="totallyTimeSpent" value="32253000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.3360996" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16554959" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -429,7 +407,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.37538463" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35777125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -509,27 +487,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+    <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="53" column="16" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="16" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#form#0;n#div#2;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="21" column="61" lean-forward="true" selection-start-line="21" selection-start-column="52" selection-end-line="21" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="304">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -542,15 +503,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/indexstyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="942">
-          <caret line="164" selection-start-line="164" selection-end-line="164" />
+        <state relative-caret-position="713">
+          <caret line="156" column="30" lean-forward="true" selection-start-line="156" selection-start-column="30" selection-end-line="156" selection-end-column="30" />
+          <folding>
+            <element signature="e#2403#2740#0" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web/JS/queryJS.js">
+    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="100" column="39" selection-start-line="100" selection-start-column="39" selection-end-line="100" selection-end-column="39" />
+        <state relative-caret-position="627">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="103" column="12" selection-start-line="103" selection-end-line="103" selection-end-column="12" />
         </state>
       </provider>
     </entry>

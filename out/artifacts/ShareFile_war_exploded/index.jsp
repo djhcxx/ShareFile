@@ -8,28 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
   <head>
       <script type="text/javascript" src="JS/ForBoxQuery.js"></script>
+      <script type="text/javascript" src="JS/ForFriend.js"></script>
     <link href="CSS/indexstyle.css" rel="stylesheet" type="text/css"/>
     <title>$Title$</title>
   </head>
-<script>
-  function change(obj)
-  {
-    var x=document.getElementById("friend");
 
-
-
-    if(x.style.display.toString()=="")
-    {
-      x.style.display='block';
-      obj.style.backgroundColor='green';
-    }
-    else
-    {
-      x.style.display='';
-      obj.style.backgroundColor='#4CAF50';
-    }
-  }
-</script>
   <body>
   <div class="header">
     ShareFile
@@ -46,15 +29,14 @@
 
   <div class="column leftcolumn">
 
-      <form autocomplete="off" action="/action_page.php">
-          <div class="autocomplete" style="width:300px;">
-              <input type="text" id="myInput" name="search" placeholder="搜索..">
-              <a id="ll" STYLE=" background-color: orange; border: none;color: white;padding: 15px 32px;text-align: center;
-    text-decoration: none;display: inline-block;font-size: 13px;margin: 4px 2px;" href="void(0);" target="ifr" onclick="Condition()">查询</a>
+      <form>
+          <div>
+              <input id="myInput" type="text">
           </div>
       </form>
 
-
+      <a id="ll" STYLE=" background-color: orange; border: none;color: white;padding: 15px 32px;text-align: center;
+    text-decoration: none;display: inline-block;font-size: 13px;margin: 4px 2px;" href="void(0);" target="ifr" onclick="Condition()">查询</a>
     <br>
     <div class="vertical-menu">
       <a href="#" class="active">Category</a>
