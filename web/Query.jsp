@@ -19,12 +19,6 @@
 <button class="tablink" onclick="openWhich('store', this, 'white')">店铺</button>
 <button class="Normaltablink" >1 </button>
 <button class="Normaltablink" >1 </button>
-<button class="Normaltablink" > 1</button>
-<button class="Normaltablink" >1 </button>
-<button class="Normaltablink" > 1</button>
-
-<button class="Normaltablink" > 1</button>
-<button class="Normaltablink" >1 </button>
 <br>
 <div id="good" class="tabcontent" style=" background-color:white;">
     <div class="card">

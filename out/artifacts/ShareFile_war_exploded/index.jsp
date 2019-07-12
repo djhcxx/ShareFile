@@ -34,18 +34,17 @@
   <a style="float: right">Register</a>
   <a style="float: right">Login</a>
 </div>
-<br>
-<br>
+
+<br><br>
 <form>
   <div>
     <input id="myInput" type="text">    <a id="ll" STYLE="
   background-color: orange; border: none;color: white;padding: 15px 32px;
   text-decoration: none;font-size: 13px;margin: 4px 2px;" href="void(0);" target="ifr" onclick="Condition()">查询</a>
-
   </div>
 </form>
-
 <br><br>
+
 <div class="column leftcolumn">
 
 
@@ -54,8 +53,6 @@
     <a target="ifr" onclick="CPP.jsp">C++</a>
     <a target="ifr" onclick="java.jsp">JAVA</a>
   </div>
-
-</div>
 
 </div>
 <div class="column middlecolumn">
