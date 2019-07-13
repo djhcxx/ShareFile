@@ -7,26 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="278e0d68-19b6-4f1f-b701-6503b54d6687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForFixQuery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForTab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/WEB-INF/classes/Bll/Look.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/WEB-INF/classes/META-INF/ShareFile.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ShareFile/Bll/Look.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/ShareFile/META-INF/ShareFile.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bll/Look.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/JS/ForFixQuery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/JS/ForTab.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/Shop.Fk8nAA/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/Shop.Fk8nAA/schema/dbo.sYMBAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/PIC/休闲套装.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/FirstPage/middlestyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/FirstPage/middlestyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/querystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/querystyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bll/GoodLook.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/CSS/querystyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/querystyle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Query.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,13 +46,6 @@
         <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
         <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
       </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
-        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
-        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
-        <item name="Good: table" type="63ab2ba1:MsImplModel$Table" />
-      </path>
     </expand>
     <select />
   </component>
@@ -76,11 +54,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="20" />
+            <state relative-caret-position="99">
+              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
               <folding>
                 <element signature="n#head#0;n#!!top" />
                 <element signature="n#div#0;n#body#0;n#!!top" />
@@ -94,15 +72,22 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Good">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
+              <filtering>
+                <filter text="" />
+              </filtering>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="e#1244#1276#0" />
-                <element signature="e#1317#1351#0" />
-              </folding>
+            <state relative-caret-position="209">
+              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -192,7 +177,6 @@
         <option value="$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css" />
         <option value="$PROJECT_DIR$/web/CSS/inputstyle.css" />
         <option value="$PROJECT_DIR$/src/Bll/GoodLook.java" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
         <option value="$PROJECT_DIR$/src/Bll/Look.java" />
         <option value="$PROJECT_DIR$/web/JS/ForTab.js" />
         <option value="$PROJECT_DIR$/web/Query.jsp" />
@@ -201,6 +185,7 @@
         <option value="$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css" />
         <option value="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" />
         <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
       </list>
     </option>
   </component>
@@ -220,8 +205,8 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
-    <option name="width" value="977" />
-    <option name="height" value="1038" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -274,8 +259,7 @@
               <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="FirstPage" type="462c0819:PsiDirectoryNode" />
+              <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
@@ -300,6 +284,9 @@
     <property name="project.structure.side.proportion" value="0.20344828" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ShareFile\web\PIC" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ShareFile\src" />
     </key>
@@ -416,14 +403,22 @@
       <option name="project" value="LOCAL" />
       <updated>1563001091583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="yes">
+      <created>1563023367194</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1563023367194</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25271000" />
+    <option name="totallyTimeSpent" value="26345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13739946" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -764,15 +759,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Good">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dao/DBcon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -858,19 +844,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="e#1244#1276#0" />
-            <element signature="e#1317#1351#0" />
-          </folding>
+        <state relative-caret-position="209">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="20" />
+        <state relative-caret-position="99">
+          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
           <folding>
             <element signature="n#head#0;n#!!top" />
             <element signature="n#div#0;n#body#0;n#!!top" />
@@ -880,6 +862,15 @@
             <element signature="n#div#4;n#body#0;n#!!top" />
             <element signature="n#div#5;n#body#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Good">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
+          <filtering>
+            <filter text="" />
+          </filtering>
         </state>
       </provider>
     </entry>

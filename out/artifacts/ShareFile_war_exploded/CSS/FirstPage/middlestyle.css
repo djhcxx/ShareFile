@@ -24,7 +24,7 @@
     background-color: #ccc;
 }
 /*category*/
-.vertical-menu .l .active {
+.vertical-menu .l.active {
     background-color: #4CAF50;
     color: white;
 }
@@ -35,20 +35,12 @@
     display: inline;
 }
 
-.left-extension-a {
-    background-color: #4CAF50;
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-}
 
 .left-extension-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 400px;
+    min-width: 200px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
@@ -66,7 +58,7 @@
      display: inline-block;
  }
 
-.left-extension:hover .left-extension-a {
+.left-extension:hover{
     background-color: #3e8e41;
 }
 

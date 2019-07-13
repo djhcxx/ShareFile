@@ -50,10 +50,14 @@
     <a  href="#" class="l active">Category</a>
 
     <div class="left-extension">
-      <a   href="void(0);"  target="ifr"  id="where number>0 and category='书籍'" onclick="JumpWhichQuery(this)">服装</a>
+        <a class="l"  href="void(0);"  target="ifr"  id="where number>0 and category='服装'" onclick="JumpWhichQuery(this)">服装</a>
       <div class="left-extension-content">
         <a href="void(0);"  target="ifr" id="where number>0 and category='男装'" onclick="JumpWhichQuery(this)">男装</a>
         <a href="void(0);"  target="ifr" id="where number>0 and category='女装'" onclick="JumpWhichQuery(this)">女装</a>
+        <a href="void(0);"  target="ifr" id="where number>0 and category='上衣'" onclick="JumpWhichQuery(this)">上衣</a>
+        <a href="void(0);"  target="ifr" id="where number>0 and category='外套'" onclick="JumpWhichQuery(this)">外套</a>
+        <a href="void(0);"  target="ifr" id="where number>0 and category='裤子'" onclick="JumpWhichQuery(this)">裤子</a>
+        <a href="void(0);"  target="ifr" id="where number>0 and category='套装'" onclick="JumpWhichQuery(this)">套装</a>
       </div>
     </div>
 
