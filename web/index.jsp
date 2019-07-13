@@ -47,14 +47,25 @@
 
 
   <div class="vertical-menu">
-    <a href="#" class="active">Category</a>
-    <a target="ifr" onclick="CPP.jsp">C++</a>
-    <a target="ifr" onclick="java.jsp">JAVA</a>
+    <a  href="#" class="l active">Category</a>
+
+    <div class="left-extension">
+        <a class="l"  href="void(0);"  target="ifr"  id="where number>0 and category='书籍'" onclick="JumpWhichQuery(this)">服装</a>
+      <div class="left-extension-content">
+        <a href="void(0);"  target="ifr" id="where number>0 and category='男装'" onclick="JumpWhichQuery(this)">男装</a>
+        <a href="void(0);"  target="ifr" id="where number>0 and category='女装'" onclick="JumpWhichQuery(this)">女装</a>
+      </div>
+    </div>
+
+    <a class="l" href="void(0);"  target="ifr" id="where  number>0 and category='衣服'" onclick="JumpWhichQuery(this)">衣服</a>
+    <a class="l" href="void(0);"  target="ifr" id="where  number>0 and category='数码'" onclick="JumpWhichQuery(this)">数码</a>
+    <a class="l" href="void(0);"  target="ifr" id="where  number>0 and category='小吃'" onclick="JumpWhichQuery(this)">小吃</a>
+    <a class="l" href="void(0);"  target="ifr" id="where  number>0 and category='百货'" onclick="JumpWhichQuery(this)">百货</a>
   </div>
 
 </div>
 <div class="column middlecolumn">
-  <iframe  name="ifr" src="Query.jsp" onload="this.height='100%';this.width='100%'" frameborder="0" scrolling="no"></iframe>
+  <iframe  name="ifr" src="Query.jsp" onload="this.height='100%';this.width='100%'" frameborder="1" scrolling="no"></iframe>
 </div>
 <div class="column rightcolumn">
 
@@ -76,4 +87,5 @@
 </body>
 <script type="text/javascript" src="JS/ForBoxQuery.js"></script>
 <script type="text/javascript" src="JS/ForFriend.js"></script>
+<script type="text/javascript" src="JS/ForFixQuery.js"></script>
 </html>

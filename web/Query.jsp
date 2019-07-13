@@ -6,8 +6,10 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%@ page import="Dao.DBcon" %>
-<%@ page import="java.sql.*" %>
+<%@ page import="Bll.*" %>
+<%@ page import="Entity.*" %>
+<%@ page import="java.util.ArrayList" %>
+<%@ page import="java.util.Iterator" %>
 <html>
 <head>
     <link href="CSS/querystyle.css" rel="stylesheet" type="text/css"/>
@@ -30,22 +32,31 @@
 <br>
 
 <div id="good" class="tabcontent" style=" background-color:white;">
+    <%
+        String str=request.getParameter("Select");
+        if (str==null)str="";
+        ArrayList<Good> arrayList=Look.show(new Good(),str);
+        Iterator i=arrayList.iterator();
+        while(i.hasNext())
+        {
+            Good g=(Good) i.next();
+
+    %>
+
     <div class="card">
-        <img src="PIC/3.jpg" style="width:100%">
+        <img src="<%=g.getShowlink()%>" >
         <div class="container">
-            <div class="tooltip">二叉树
-                <span class="tooltiptext">
-            <td>文件名：</td>  </td><br>
-            <td>价格：</td> <td>10</td><br>
-            <td>所有人：</td> <td>djh</td><br>
-            <td>分类：</td> <td>exe </td><br>
-            <td>简介：</td> <td>程序猿都喜欢二叉树 </td><br>
-        </span>
-            </div><br>
-            <td>价格：</td> <td>10</td><br>
-            <td>所有人：</td> <td>djh</td><br>
+            <div class="tooltip"><td>名称：</td><td><%=g.getGname()%>  </td><span class="tooltiptext">
+            <td>文件名：</td><td><%=g.getGname()%>  </td><br>
+            <td>价格：</td> <td><%=g.getGprice()%></td><br>
+            <td>所属商店：</td> <td><%=g.getBelongstore()%></td><br>
+            <td>分类：</td> <td><%=g.getCategory()%> </td><br>
+            <td>简介：</td> <td><%=g.getBriefintroduction()%> </td><br>
+        </span></div><br>
+            <td>价格：</td> <td><%=g.getGprice()%></td>
         </div>
     </div>
+    <%}%>
 </div>
 
 <div id="store" class="tabcontent" style=" background-color:white;">
@@ -63,22 +74,5 @@
 </div>
 
 </body>
-<script>
-    function openWhich(Name,elmnt,color) {
-        var i, tabcontent, tablinks;
-        tabcontent = document.getElementsByClassName("tabcontent");
-        for (i = 0; i < tabcontent.length; i++) {
-            tabcontent[i].style.display = "none";
-        }
-        tablinks = document.getElementsByClassName("tablink");
-        for (i = 0; i < tablinks.length; i++) {
-            tablinks[i].style.backgroundColor = '#F8F8F8';
-        }
-        document.getElementById(Name).style.display = "block";
-        elmnt.style.backgroundColor = color;
-
-    }
-    // 触发 id="defaultOpen" click 事件
-    document.getElementById("defaultOpen").click();
-</script>
+<script type="text/javascript" src="JS/ForTab.js"></script>
 </html>

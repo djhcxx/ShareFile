@@ -125,7 +125,7 @@
     </schema>
     <schema id="32" parent="4" name="dbo">
       <ObjectId>1</ObjectId>
-      <IntrospectionTimestamp>2019-07-13.21:24:07.020</IntrospectionTimestamp>
+      <IntrospectionTimestamp>2019-07-13.23:56:45.507</IntrospectionTimestamp>
       <Current>1</Current>
       <Visible>1</Visible>
     </schema>
@@ -280,7 +280,7 @@
     <table id="68" parent="32" name="Store">
       <ObjectId>197575742</ObjectId>
       <CreatedTimestamp>2019-07-13.18:57:50.707</CreatedTimestamp>
-      <ModifiedTimestamp>2019-07-13.21:24:05.583</ModifiedTimestamp>
+      <ModifiedTimestamp>2019-07-13.23:56:44.240</ModifiedTimestamp>
     </table>
     <table id="69" parent="32" name="StoreBeShopedHistory">
       <ObjectId>581577110</ObjectId>
@@ -1493,7 +1493,6 @@
     <column id="237" parent="68" name="goodid">
       <Position>3</Position>
       <DataType>int|0s</DataType>
-      <NotNull>1</NotNull>
     </column>
     <column id="238" parent="68" name="storetime">
       <Position>4</Position>
