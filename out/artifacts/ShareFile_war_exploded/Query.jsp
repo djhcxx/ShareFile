@@ -6,6 +6,8 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<%@ page import="Dao.DBcon" %>
+<%@ page import="java.sql.*" %>
 <html>
 <head>
     <link href="CSS/querystyle.css" rel="stylesheet" type="text/css"/>
@@ -26,6 +28,7 @@
 <button class="Normaltablink" >1 </button>
 
 <br>
+
 <div id="good" class="tabcontent" style=" background-color:white;">
     <div class="card">
         <img src="PIC/3.jpg" style="width:100%">

@@ -8,7 +8,6 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 
 <head>
-
   <link href="CSS/FirstPage/indexstyle.css" rel="stylesheet" type="text/css"/>
   <link href="CSS/FirstPage/headerstyle.css" rel="stylesheet" type="text/css"/>
   <link href="CSS/FirstPage/footerstyle.css" rel="stylesheet" type="text/css"/>
@@ -16,7 +15,6 @@
   <link href="CSS/FirstPage/searchstyle.css" rel="stylesheet" type="text/css"/>
   <link href="CSS/FirstPage/topnavstyle.css" rel="stylesheet" type="text/css"/>
   <link href="CSS/inputstyle.css" rel="stylesheet" type="text/css"/>
-
   <title>$Title$</title>
 </head>
 
