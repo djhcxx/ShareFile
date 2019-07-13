@@ -1,0 +1,71 @@
+
+.column {
+    float: left;
+    padding: 10px;
+}
+/* 三栏 */
+.column.rightcolumn {  width: 20%; margin-top: 1px;margin-bottom: 1px} /*菜单栏*/
+.column.middlecolumn {  width: 60%;  margin-top: 1px;margin-bottom: 1px} /*主要内容*/
+.column.leftcolumn {   width: 20%;margin-top: 1px;margin-bottom: 1px} /*其余部分*/
+
+
+.vertical-menu {
+    width: 200px;
+}
+.vertical-menu a {
+    background-color: #eee;
+    color: black;
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+}
+.vertical-menu a:hover {
+    background-color: #ccc;
+}
+.vertical-menu a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.btn-group
+{
+    margin-top: 50px;
+}
+/*右侧按键*/
+.btn-group button {
+    padding: 24px 10px; /* Some padding */
+    background-color: #4CAF50; /* Green background */
+    border: 1px solid green; /* Green border */
+    color: white; /* White text */
+    cursor: pointer; /* Pointer/hand icon */
+    width: 5px; /* Set a width if needed */
+    display: block; /* Make the buttons appear below each other */
+
+
+}
+
+.btn-group button:not(:last-child) {
+    border-bottom: none; /* Prevent double borders */
+}
+.list {
+    position: relative;
+    display: inline-block;
+
+
+}
+
+.list .context {
+    display: none;
+    width: 120px;
+    background-color: orange;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 0px 0;
+
+    /* 定位 */
+    position: absolute;
+    z-index: 1;
+    top: -5px;
+    right: 100%;
+}

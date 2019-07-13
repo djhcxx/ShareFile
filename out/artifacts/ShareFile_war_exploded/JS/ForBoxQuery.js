@@ -2,7 +2,6 @@ function autocomplete (arr) {
     /*函数主要有两个参数：文本框元素和自动补齐的完整数据*/
     var currentFocus;
     var inp=document.getElementById("myInput");
-    /* 监听 - 在写入时触发 */
     inp.addEventListener("input", function(e) {
         var a, b, i, val = this.value;
         /*关闭已经打开的自动完成值列表*/
@@ -10,7 +9,7 @@ function autocomplete (arr) {
         if (!val) { return false;}
         currentFocus = -1;
         /*创建列表*/
-        a = document.createElement("div");
+        a = document.createElement("DIV");
         a.setAttribute("id", this.id + "autocomplete-list");
         a.setAttribute("class", "autocomplete-items");
         /*添加 DIV 元素*/
@@ -21,7 +20,6 @@ function autocomplete (arr) {
             if (arr[i].substr(0, val.length).toUpperCase() == val.toUpperCase()) {
                 /*为匹配元素创建 DIV*/
                 b = document.createElement("DIV");
-                console.log(b);
                 /*使匹配字母变粗体*/
                 b.innerHTML = "<strong>" + arr[i].substr(0, val.length) + "</strong>";
                 b.innerHTML += arr[i].substr(val.length);
@@ -30,7 +28,7 @@ function autocomplete (arr) {
                 /*execute a function when someone clicks on the item value (DIV element):*/
                 b.addEventListener("click", function(e) {
                     /*insert the value for the autocomplete text field:*/
-                    inp.value = this.getElementsByTagName("inputstyle.css")[0].value;
+                    inp.value = this.getElementsByTagName("input")[0].value;
                     /*close the list of autocompleted values,
                     (or any other open lists of autocompleted values:*/
                     closeAllLists();
@@ -39,7 +37,31 @@ function autocomplete (arr) {
             }
         }
     });
-
+    /*execute a function presses a key on the keyboard:*/
+    inp.addEventListener("keydown", function(e) {
+        var x = document.getElementById(this.id + "autocomplete-list");
+        if (x) x = x.getElementsByTagName("div");
+        if (e.keyCode == 40) {
+            /*If the arrow DOWN key is pressed,
+            increase the currentFocus variable:*/
+            currentFocus++;
+            /*and and make the current item more visible:*/
+            addActive(x);
+        } else if (e.keyCode == 38) { //up
+            /*If the arrow UP key is pressed,
+            decrease the currentFocus variable:*/
+            currentFocus--;
+            /*and and make the current item more visible:*/
+            addActive(x);
+        } else if (e.keyCode == 13) {
+            /*If the ENTER key is pressed, prevent the form from being submitted,*/
+            e.preventDefault();
+            if (currentFocus > -1) {
+                /*and simulate a click on the "active" item:*/
+                if (x) x[currentFocus].click();
+            }
+        }
+    });
     function addActive(x) {
         /*a function to classify an item as "active":*/
         if (!x) return false;
