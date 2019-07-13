@@ -1,5 +1,244 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ShareFile:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="278e0d68-19b6-4f1f-b701-6503b54d6687" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Good: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Store: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/index.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-19">
+              <caret line="38" column="22" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1511">
+              <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-109">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/inputstyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bll/GoodLook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="159">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Bll/FriendLook.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/Query.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="76" column="50" selection-start-line="76" selection-start-column="50" selection-end-line="76" selection-end-column="50" />
+              <folding>
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Dao/DBcon.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Good.java" />
+        <option value="$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css" />
+        <option value="$PROJECT_DIR$/web/CSS/inputstyle.css" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/Query.jsp" />
+        <option value="$PROJECT_DIR$/src/Bll/GoodLook.java" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1038" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Bll" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="servlet-api.jar" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
@@ -7,6 +246,23 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20344828" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ShareFile\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 9.0.20" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.20" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
@@ -82,5 +338,418 @@
         </option>
       </method>
     </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="yes">
+      <created>1563000831109</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563000831109</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7412000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="0" width="781" height="830" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28354082" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3723077" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932975" weight="0.32844576" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34604105" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" weight="0.32991204" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.34164223" />
+      <window_info anchor="bottom" id="SQL Generator" order="16" weight="0.3419453" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.5449516" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.085753806" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="yes" />
+    <option name="LAST_COMMIT_MESSAGE" value="yes" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Chat">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Comment">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="87" column="37" selection-end-line="105" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console_2.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/DBcon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://DATABASE/c5763536-93fe-4cde-9498-0ec87848d979.DATABASE:Shop">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>DATABASE</ID>
+          <OriginalElement>c5763536-93fe-4cde-9498-0ec87848d979.DATABASE:Shop</OriginalElement>
+          <nodes>
+            <node x="249.25000000000006" y="235.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Application</node>
+            <node x="461.25" y="0.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer</node>
+            <node x="0.0" y="464.5">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store</node>
+            <node x="855.25" y="246.5">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Friend</node>
+            <node x="446.25000000000006" y="235.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Chat</node>
+            <node x="1094.75" y="476.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Favorite</node>
+            <node x="318.58593750000006" y="648.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.StoreBeShopedHistory</node>
+            <node x="890.75" y="453.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Comment</node>
+            <node x="51.25" y="235.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Message</node>
+            <node x="638.25" y="189.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good</node>
+            <node x="395.00000000000006" y="464.5">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.ShopHistory</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Favorite" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
+              <point x="-40.75" y="-49.5" />
+              <point x="1135.5" y="423.0" />
+              <point x="815.5500000000002" y="423.0" />
+              <point x="78.80000000000007" y="107.0" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Comment" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="46.0" y="-72.5" />
+              <point x="1028.75" y="129.0" />
+              <point x="585.5" y="129.0" />
+              <point x="53.25" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
+              <point x="40.75" y="-61.0" />
+              <point x="122.25" y="423.0" />
+              <point x="657.95" y="423.0" />
+              <point x="-78.79999999999995" y="107.0" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.ShopHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
+              <point x="40.75" y="-61.0" />
+              <point x="517.25" y="433.0" />
+              <point x="697.3500000000001" y="433.0" />
+              <point x="-39.39999999999998" y="107.0" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.StoreBeShopedHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store">
+              <point x="-42.25" y="-61.0" />
+              <point x="360.83593750000006" y="623.0" />
+              <point x="81.5" y="623.0" />
+              <point x="0.0" y="61.0" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Friend" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="40.75" y="-49.5" />
+              <point x="977.5" y="139.0" />
+              <point x="573.6666666666667" y="139.0" />
+              <point x="41.41666666666674" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.StoreBeShopedHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
+              <point x="42.25" y="-61.0" />
+              <point x="445.33593750000006" y="623.0" />
+              <point x="736.75" y="623.0" />
+              <point x="0.0" y="107.0" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Favorite" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="40.75" y="-49.5" />
+              <point x="1217.0" y="119.0" />
+              <point x="597.3333333333334" y="119.0" />
+              <point x="65.08333333333337" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Application" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="-44.0" y="-61.0" />
+              <point x="293.25000000000006" y="139.0" />
+              <point x="490.8333333333333" y="139.0" />
+              <point x="-41.416666666666686" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="-40.75" y="-61.0" />
+              <point x="40.75" y="119.0" />
+              <point x="467.16666666666663" y="119.0" />
+              <point x="-65.08333333333337" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Comment" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
+              <point x="-46.0" y="-72.5" />
+              <point x="936.75" y="433.0" />
+              <point x="776.1500000000001" y="433.0" />
+              <point x="39.40000000000009" y="107.0" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.ShopHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="-40.75" y="-61.0" />
+              <point x="435.75000000000006" y="159.0" />
+              <point x="514.5" y="159.0" />
+              <point x="-17.75" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="0.0" y="-107.0" />
+              <point x="736.75" y="159.0" />
+              <point x="550.0" y="159.0" />
+              <point x="17.75" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Chat" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="43.0" y="-61.0" />
+              <point x="575.25" y="169.0" />
+              <point x="538.1666666666667" y="169.0" />
+              <point x="5.916666666666686" y="49.5" />
+            </edge>
+            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Message" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
+              <point x="0.0" y="-61.0" />
+              <point x="140.25" y="129.0" />
+              <point x="479.0" y="129.0" />
+              <point x="-53.25" y="49.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.708860759493671" x="294.5714285714285" y="318.5714285714285" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Key columns</Category>
+            <Category>Columns</Category>
+          </Categories>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/StoreBeShopedHistory">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../apache-tomcat-9.0.20/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-798">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Dao/Select.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Good.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../apache-tomcat-9.0.20/lib/servlet-api.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1448">
+          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/inputstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-19">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1511">
+          <caret line="93" column="7" selection-start-line="93" selection-start-column="7" selection-end-line="93" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="76" column="50" selection-start-line="76" selection-start-column="50" selection-end-line="76" selection-end-column="50" />
+          <folding>
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5852">
+          <caret line="16" column="47" lean-forward="true" selection-start-line="16" selection-start-column="47" selection-end-line="16" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-109">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bll/FriendLook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bll/GoodLook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ShareFile</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20344828" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
