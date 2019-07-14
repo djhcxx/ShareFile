@@ -7,13 +7,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="278e0d68-19b6-4f1f-b701-6503b54d6687" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/PIC/休闲套装.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bll/LoginCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bll/Query.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bll/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Utility/Find.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/CSS/Chatroom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/CSS/LoginStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/CSS/MessageStyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Chat.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/EXE/generateBT.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/JS/ForChatRoom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/LoginCheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Register.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/RegisterCheck.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/wunai.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/Shop.Fk8nAA/schema/dbo.sYMBAA.meta" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/c5763536-93fe-4cde-9498-0ec87848d979/storage_v2/_src_/database/Shop.Fk8nAA/schema/dbo.sYMBAA.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/FirstPage/middlestyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/FirstPage/middlestyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/inputstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/CSS/inputstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForFriend.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/JS/ForFriend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/Query.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/WEB-INF/classes/Bll/FriendLook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/WEB-INF/classes/Bll/FriendLook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/WEB-INF/classes/Bll/Look.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/WEB-INF/classes/Bll/Look.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/ShareFile_war_exploded/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShareFile/Bll/FriendLook.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShareFile/Bll/FriendLook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ShareFile/Bll/Look.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ShareFile/Bll/Look.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bll/FriendLook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bll/FriendLook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bll/Look.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bll/Look.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/CSS/inputstyle.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/CSS/inputstyle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/JS/ForFriend.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/JS/ForFriend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/Query.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/Query.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +77,41 @@
         <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
         <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
       </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Application: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Chat: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Comment: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Customer: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@49.234.3.24" type="feb32156:DbDataSourceImpl" />
+        <item name="Shop: database" type="ccb7ac2a:MsImplModel$Database" />
+        <item name="dbo: schema" type="2865ee2e:MsImplModel$Schema" />
+        <item name="Friend: table" type="63ab2ba1:MsImplModel$Table" />
+      </path>
     </expand>
     <select />
   </component>
@@ -57,46 +123,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-              <folding>
-                <element signature="n#head#0;n#!!top" />
-                <element signature="n#div#0;n#body#0;n#!!top" />
-                <element signature="n#div#1;n#body#0;n#!!top" />
-                <element signature="n#form#0;n#body#0;n#!!top" />
-                <element signature="n#div#3;n#body#0;n#!!top" />
-                <element signature="n#div#4;n#body#0;n#!!top" />
-                <element signature="n#div#5;n#body#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="266">
+              <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Good">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-              <filtering>
-                <filter text="" />
-              </filtering>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css">
+        <entry file="file://$PROJECT_DIR$/web/JS/ForChatRoom.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+            <state relative-caret-position="285">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -104,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+            <state relative-caret-position="-63">
+              <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -120,40 +157,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css">
+        <entry file="file://$PROJECT_DIR$/web/Chat.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+            <state relative-caret-position="-177">
+              <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css">
+        <entry file="file://$PROJECT_DIR$/src/Bll/LoginCheck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/web/Query.jsp">
+        <entry file="file://$PROJECT_DIR$/src/Bll/FriendLook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-15">
-              <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+            <state relative-caret-position="108">
+              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
-                <element signature="n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="120" column="23" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/LoginStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-228" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web/CSS/MessageStyle.css">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -162,7 +213,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -175,17 +228,36 @@
         <option value="$PROJECT_DIR$/src/Dao/DBcon.java" />
         <option value="$PROJECT_DIR$/src/Entity/Good.java" />
         <option value="$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css" />
-        <option value="$PROJECT_DIR$/web/CSS/inputstyle.css" />
         <option value="$PROJECT_DIR$/src/Bll/GoodLook.java" />
-        <option value="$PROJECT_DIR$/src/Bll/Look.java" />
         <option value="$PROJECT_DIR$/web/JS/ForTab.js" />
-        <option value="$PROJECT_DIR$/web/Query.jsp" />
         <option value="$PROJECT_DIR$/web/CSS/querystyle.css" />
         <option value="$PROJECT_DIR$/web/JS/ForFixQuery.js" />
         <option value="$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css" />
-        <option value="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" />
-        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/src/Entity/Friend.java" />
+        <option value="$PROJECT_DIR$/src/Bll/Look.java" />
+        <option value="$PROJECT_DIR$/src/Entity/Customer.java" />
+        <option value="$PROJECT_DIR$/src/Bll/FriendLook.java" />
+        <option value="$PROJECT_DIR$/src/Utility/Find.java" />
+        <option value="$PROJECT_DIR$/web/Query.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console_3.sql" />
+        <option value="$PROJECT_DIR$/src/Bll/GenericQuery.java" />
+        <option value="$PROJECT_DIR$/web/Register.jsp" />
+        <option value="$PROJECT_DIR$/src/Bll/Register.java" />
+        <option value="$PROJECT_DIR$/web/RegisterCheck.jsp" />
+        <option value="$PROJECT_DIR$/web/Login.jsp" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console.sql" />
+        <option value="$PROJECT_DIR$/web/LoginCheck.jsp" />
+        <option value="$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css" />
+        <option value="$PROJECT_DIR$/web/JS/ForFriend.js" />
+        <option value="$PROJECT_DIR$/web/CSS/inputstyle.css" />
+        <option value="$PROJECT_DIR$/web/CSS/Chatroom.css" />
+        <option value="$PROJECT_DIR$/web/3..js" />
+        <option value="$PROJECT_DIR$/src/Bll/Query.java" />
+        <option value="$PROJECT_DIR$/web/Chat.jsp" />
+        <option value="$PROJECT_DIR$/web/wunai.jsp" />
+        <option value="$PROJECT_DIR$/web/index.jsp" />
+        <option value="$PROJECT_DIR$/web/JS/ForChatRoom.js" />
       </list>
     </option>
   </component>
@@ -203,10 +275,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="980" />
-    <option name="height" value="1040" />
+    <option name="x" value="1506" />
+    <option name="width" value="423" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -259,6 +330,13 @@
               <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
               <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
               <item name="web" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="FirstPage" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ShareFile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ShareFile" type="462c0819:PsiDirectoryNode" />
+              <item name="web" type="462c0819:PsiDirectoryNode" />
               <item name="JS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -277,18 +355,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Entity" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/web/CSS" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20344828" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ShareFile\web\CSS" />
+      <recent name="D:\ShareFile\web" />
+      <recent name="D:\ShareFile\web\EXE" />
+      <recent name="D:\ShareFile\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\ShareFile\web\PIC" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\ShareFile\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -410,17 +494,34 @@
       <option name="project" value="LOCAL" />
       <updated>1563023367194</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="yes">
+      <created>1563024559758</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1563024559758</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="278e0d68-19b6-4f1f-b701-6503b54d6687" name="Default Changelist" comment="" />
+      <created>1563068543634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563068543634</updated>
+      <workItem from="1563068579426" duration="13566000" />
+      <workItem from="1563087550856" duration="7729000" />
+      <workItem from="1563099555105" duration="5086000" />
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26345000" />
+    <option name="totallyTimeSpent" value="54560000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13739946" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18900804" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -429,18 +530,54 @@
       <window_info id="Image Layers" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.21994135" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.398827" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937685" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.20674486" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3973607" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932975" weight="0.32844576" />
-      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32991204" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34604105" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32937685" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34569734" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.21994135" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" weight="0.32991204" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" weight="0.32937685" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" weight="0.32937685" />
+      <window_info anchor="bottom" id="Version Control" order="15" weight="0.34164223" />
+      <window_info anchor="bottom" id="SQL Generator" order="16" weight="0.3419453" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven" order="5" weight="0.54423594" />
+      <window_info anchor="right" id="Database" order="6" weight="0.6445367" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14477211" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32937685" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.20674486" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3973607" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Application Servers" order="7" sideWeight="0.49932975" weight="0.32844576" />
+      <window_info anchor="bottom" id="Database Console" order="8" weight="0.32937685" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34569734" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5013405" side_tool="true" weight="0.21994135" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49865952" weight="0.32937685" />
       <window_info anchor="bottom" id="Java Enterprise" order="13" />
       <window_info anchor="bottom" id="Database Changes" order="14" />
       <window_info anchor="bottom" id="Version Control" order="15" weight="0.34164223" />
@@ -451,10 +588,13 @@
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven" order="5" weight="0.54423594" />
-      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.08646113" />
+      <window_info anchor="right" id="Database" order="6" visible="true" weight="0.22922252" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-    </layout>
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="yes" />
@@ -466,6 +606,21 @@
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>resultSet</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>&quot;select * from Customer where account=&quot;+&quot;'&quot;+a+&quot;'&quot;+ &quot;and  pwd=&quot;+&quot;'&quot;+p+&quot;'&quot;</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>select * from Customer where account=&quot;+&quot;'&quot;+a+&quot;'&quot;+ &quot;and  pwd=&quot;+&quot;'&quot;+p+&quot;'</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
       <expression>
         <expression-string>rs.getObject(f[i].getName())</expression-string>
         <language-id>JAVA</language-id>
@@ -479,204 +634,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Chat">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Comment">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console_1.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="87" column="37" selection-end-line="105" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console_2.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="86" column="41" selection-start-line="86" selection-start-column="41" selection-end-line="86" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://DATABASE/c5763536-93fe-4cde-9498-0ec87848d979.DATABASE:Shop">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>DATABASE</ID>
-          <OriginalElement>c5763536-93fe-4cde-9498-0ec87848d979.DATABASE:Shop</OriginalElement>
-          <nodes>
-            <node x="249.25000000000006" y="235.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Application</node>
-            <node x="461.25" y="0.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer</node>
-            <node x="0.0" y="464.5">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store</node>
-            <node x="855.25" y="246.5">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Friend</node>
-            <node x="446.25000000000006" y="235.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Chat</node>
-            <node x="1094.75" y="476.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Favorite</node>
-            <node x="318.58593750000006" y="648.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.StoreBeShopedHistory</node>
-            <node x="890.75" y="453.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Comment</node>
-            <node x="51.25" y="235.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Message</node>
-            <node x="638.25" y="189.0">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good</node>
-            <node x="395.00000000000006" y="464.5">c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.ShopHistory</node>
-          </nodes>
-          <notes />
-          <edges>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Favorite" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
-              <point x="-40.75" y="-49.5" />
-              <point x="1135.5" y="423.0" />
-              <point x="815.5500000000002" y="423.0" />
-              <point x="78.80000000000007" y="107.0" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Comment" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="46.0" y="-72.5" />
-              <point x="1028.75" y="129.0" />
-              <point x="585.5" y="129.0" />
-              <point x="53.25" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
-              <point x="40.75" y="-61.0" />
-              <point x="122.25" y="423.0" />
-              <point x="657.95" y="423.0" />
-              <point x="-78.79999999999995" y="107.0" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.ShopHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
-              <point x="40.75" y="-61.0" />
-              <point x="517.25" y="433.0" />
-              <point x="697.3500000000001" y="433.0" />
-              <point x="-39.39999999999998" y="107.0" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.StoreBeShopedHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store">
-              <point x="-42.25" y="-61.0" />
-              <point x="360.83593750000006" y="623.0" />
-              <point x="81.5" y="623.0" />
-              <point x="0.0" y="61.0" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Friend" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="40.75" y="-49.5" />
-              <point x="977.5" y="139.0" />
-              <point x="573.6666666666667" y="139.0" />
-              <point x="41.41666666666674" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.StoreBeShopedHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
-              <point x="42.25" y="-61.0" />
-              <point x="445.33593750000006" y="623.0" />
-              <point x="736.75" y="623.0" />
-              <point x="0.0" y="107.0" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Favorite" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="40.75" y="-49.5" />
-              <point x="1217.0" y="119.0" />
-              <point x="597.3333333333334" y="119.0" />
-              <point x="65.08333333333337" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Application" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="-44.0" y="-61.0" />
-              <point x="293.25000000000006" y="139.0" />
-              <point x="490.8333333333333" y="139.0" />
-              <point x="-41.416666666666686" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Store" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="-40.75" y="-61.0" />
-              <point x="40.75" y="119.0" />
-              <point x="467.16666666666663" y="119.0" />
-              <point x="-65.08333333333337" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Comment" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good">
-              <point x="-46.0" y="-72.5" />
-              <point x="936.75" y="433.0" />
-              <point x="776.1500000000001" y="433.0" />
-              <point x="39.40000000000009" y="107.0" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.ShopHistory" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="-40.75" y="-61.0" />
-              <point x="435.75000000000006" y="159.0" />
-              <point x="514.5" y="159.0" />
-              <point x="-17.75" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Good" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="0.0" y="-107.0" />
-              <point x="736.75" y="159.0" />
-              <point x="550.0" y="159.0" />
-              <point x="17.75" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Chat" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="43.0" y="-61.0" />
-              <point x="575.25" y="169.0" />
-              <point x="538.1666666666667" y="169.0" />
-              <point x="5.916666666666686" y="49.5" />
-            </edge>
-            <edge source="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Message" target="c5763536-93fe-4cde-9498-0ec87848d979.TABLE:Shop.dbo.Customer">
-              <point x="0.0" y="-61.0" />
-              <point x="140.25" y="129.0" />
-              <point x="479.0" y="129.0" />
-              <point x="-53.25" y="49.5" />
-            </edge>
-          </edges>
-          <settings layout="Hierarchic Group" zoom="0.708860759493671" x="294.5714285714285" y="318.5714285714285" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Key columns</Category>
-            <Category>Columns</Category>
-          </Categories>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/StoreBeShopedHistory">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/dataSources.local.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../apache-tomcat-9.0.20/lib/servlet-api.jar!/javax/servlet/http/HttpServlet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-798">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Dao/Select.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../apache-tomcat-9.0.20/lib/servlet-api.jar!/javax/servlet/http/HttpServletRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1448">
-          <caret line="16" column="17" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/inputstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-5852">
@@ -690,31 +647,6 @@
           <filtering>
             <filter text="" />
           </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Friend">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Customer">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-          <filtering>
-            <filter text="" />
-          </filtering>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bll/FriendLook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -741,24 +673,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/Desktop/sqljdbc4-2.0.jar!/com/microsoft/sqlserver/jdbc/SQLServerResultSet.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="605" selection-start-line="605" selection-end-line="605" />
-          <folding>
-            <element signature="e#3142#3143#0" expanded="true" />
-            <element signature="e#3186#3187#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Entity/Good.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Dao/DBcon.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -766,67 +680,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bll/Look.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/PIC/3.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/JS/ForTab.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-15">
-          <caret line="37" column="49" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
-          <folding>
-            <element signature="n#span#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#style#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#div#2;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/JS/ForFixQuery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="30" selection-start-column="30" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="68" column="24" lean-forward="true" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
       <provider selected="true" editor-type-id="text-editor">
@@ -835,42 +690,294 @@
         </state>
       </provider>
     </entry>
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Good">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="47c19a6b-c3da-44ff-a785-3de122e2e74e">
+          <filtering />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Utility/Find.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Good.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-629">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Friend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Entity/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Friend">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="47c19a6b-c3da-44ff-a785-3de122e2e74e">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console_3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" lean-forward="true" selection-end-column="116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/index.jsp" />
+    <entry file="jar://$USER_HOME$/Desktop/sqljdbc4-2.0.jar!/com/microsoft/sqlserver/jdbc/SQLServerException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#2020#2021#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/sqljdbc4-2.0.jar!/com/microsoft/sqlserver/jdbc/SQLServerResultSet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="266" selection-start-line="266" selection-end-line="266" />
+          <folding>
+            <element signature="e#3142#3143#0" expanded="true" />
+            <element signature="e#3186#3187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5763536-93fe-4cde-9498-0ec87848d979/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" lean-forward="true" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/querystyle.css">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="25" selection-start-line="25" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/indexstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/headerstyle.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/footerstyle.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/topnavstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/inputstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/3..js" />
+    <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/searchstyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-329" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/LoginCheck.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="20" selection-start-line="20" selection-end-line="24" selection-end-column="130" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Register.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="16" column="61" selection-start-line="16" selection-start-column="61" selection-end-line="16" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bll/Register.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Customer">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="82c90006-465f-4c7d-b8ad-9a91082d4c65">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/RegisterCheck.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="18" column="53" lean-forward="true" selection-start-line="18" selection-start-column="53" selection-end-line="18" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Login.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="32" column="40" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForTab.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForFriend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Chat">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="10d92eeb-53ae-43d6-9455-88c9693aab84">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bll/Query.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="16" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/Chatroom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="51" column="16" selection-end-line="68" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bll/Look.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="10" column="59" selection-start-line="10" selection-start-column="59" selection-end-line="10" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/wunai.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Query.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bll/LoginCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bll/FriendLook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/CSS/FirstPage/middlestyle.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
+        <state relative-caret-position="32">
+          <caret line="120" column="23" selection-start-line="120" selection-start-column="23" selection-end-line="120" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/LoginStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/CSS/MessageStyle.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForBoxQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="68" column="24" selection-start-line="68" selection-start-column="24" selection-end-line="68" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForFixQuery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="30" selection-start-column="30" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/Chat.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret column="30" lean-forward="true" selection-start-column="30" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="49" column="26" selection-start-line="49" selection-start-column="26" selection-end-line="49" selection-end-column="26" />
-          <folding>
-            <element signature="n#head#0;n#!!top" />
-            <element signature="n#div#0;n#body#0;n#!!top" />
-            <element signature="n#div#1;n#body#0;n#!!top" />
-            <element signature="n#form#0;n#body#0;n#!!top" />
-            <element signature="n#div#3;n#body#0;n#!!top" />
-            <element signature="n#div#4;n#body#0;n#!!top" />
-            <element signature="n#div#5;n#body#0;n#!!top" />
-          </folding>
+        <state relative-caret-position="266">
+          <caret line="61" column="47" selection-start-line="61" selection-start-column="47" selection-end-line="61" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="das://c5763536-93fe-4cde-9498-0ec87848d979/database/Shop/schema/dbo/table/Good">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state projectRestartId="5ba1f0c8-3416-4e32-922d-8e2dcff4141b">
-          <filtering>
-            <filter text="" />
-          </filtering>
+    <entry file="file://$PROJECT_DIR$/web/JS/ForChatRoom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

@@ -1,4 +1,4 @@
-input[type=text] {
+.queryinput {
       position: absolute;
       left: 35%;
       right: 0;

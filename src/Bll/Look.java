@@ -15,10 +15,8 @@ public class Look {
         DBcon dBcon=new DBcon();
         Field[] f =type.getDeclaredFields();
         try {
-
-
         dBcon.conWhichDB("Shop");
-        ResultSet rs=dBcon.execQuerySQL("Select * from Good "+ sql);
+        ResultSet rs=dBcon.execQuerySQL(sql);
 
             while (rs.next()) {
                 T o=(T)type.newInstance();
@@ -35,6 +33,7 @@ public class Look {
         {
             System.out.println("666");
         }
+        dBcon.close();
         return arrayList;
 
 

@@ -8,6 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <%@ page import="Bll.*" %>
 <%@ page import="Entity.*" %>
+<%@ page import="Utility.*" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="java.util.Iterator" %>
 <html>
@@ -34,8 +35,9 @@
 <div id="good" class="tabcontent" style=" background-color:white;">
     <%
         String str=request.getParameter("Select");
-        if (str==null)str="";
-        ArrayList<Good> arrayList=Look.show(new Good(),str);
+        if (str==null) str="Select * from   Good ";
+        else str= "Select * from   Good " +str;
+                ArrayList<Good> arrayList=Look.show(new Good(),str);
         Iterator i=arrayList.iterator();
         while(i.hasNext())
         {
@@ -72,7 +74,6 @@
         </div>
     </div>
 </div>
-
 </body>
 <script type="text/javascript" src="JS/ForTab.js"></script>
 </html>

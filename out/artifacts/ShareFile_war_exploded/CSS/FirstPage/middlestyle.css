@@ -30,13 +30,13 @@
 }
 
 
-.left-extension {
+.extension {
     position: relative;
     display: inline;
 }
 
 
-.left-extension-content {
+.extension-content {
     display: none;
     position: absolute;
     background-color: #f9f9f9;
@@ -44,7 +44,7 @@
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
 }
 
-.left-extension-content a {
+.extension-content a {
     color: black;
     padding: 16px;
     font-size: 16px;
@@ -52,13 +52,13 @@
     display: inline-block;
 }
 
-.left-extension-content a:hover {background-color: #f1f1f1}
+.extension-content a:hover {background-color: #f1f1f1}
 
-.left-extension:hover .left-extension-content {
+.extension:hover .extension-content {
      display: inline-block;
  }
 
-.left-extension:hover{
+.extension:hover{
     background-color: #3e8e41;
 }
 
@@ -108,4 +108,32 @@
     z-index: 1;
     top: -5px;
     right: 100%;
+}
+
+
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 250px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+
+    /* 定位 */
+    position: absolute;
+    z-index: 1;
+    top: -50px;
+    right: 105%;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
 }
